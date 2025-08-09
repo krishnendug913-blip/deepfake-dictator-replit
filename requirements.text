@@ -1,0 +1,6 @@
+opencv-python
+numpy
+imageio
+Pillow
+ffmpeg-python
+onnxruntime
